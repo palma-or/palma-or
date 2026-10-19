@@ -42,7 +42,7 @@ I am passionate about bridging the gap between theoretical AI and real-world app
 * **[Face Recognition System Security Evaluation](https://github.com/palma-or/Face-Recognition-Security-Evaluation)**  
   An in-depth adversarial machine learning study using the **ART library**. Evaluated the robustness of a FaceNet model against attacks like FGSM, BIM, PGD, Carlini-Wagner, and DeepFool. Analyzed attack transferability to ResNet50 and implemented a binary classifier defense mechanism that improved system accuracy by 39%.
 
-#### 💻 Software Engineering & Sustainability
+#### 💻 Software Engineering 
 * **[AutomationApp](https://github.com/palma-or/Task-Automation-App)**  
   A Java/JavaFX desktop application based on the trigger-action paradigm (IFTTT). Built using the MVC architecture, Chain of Responsibility pattern, and multi-threading for background rule evaluation. Developed following strict **Agile/SCRUM** methodologies.
 
